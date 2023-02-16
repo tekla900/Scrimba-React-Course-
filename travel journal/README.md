@@ -13,8 +13,10 @@ The challenge was to create a small React project that displays some of my favor
 By completing this challenge, I learned how to use React props and the map function to modify data.
 
 ### Screenshots
+![](https://i.imgur.com/iYi5gGf.png)
 
-![](https://imgur.com/iYi5gGf)
+### Live Preview
+- [Netlify](https://serene-pudding-bcd9e1.netlify.app/)
 
 Quick start:
 
