@@ -1,6 +1,6 @@
 import React from "react"
-import Header from "./Header"
-import Card from "./Card"
+import Header from "./components/Header"
+import Card from "./components/Card"
 import data from "./data.js"
 
 export default function App() {
